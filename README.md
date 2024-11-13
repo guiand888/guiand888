@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- I solve simple problems using `python`: [MX Domain Check](https://github.com/guiand888/mx_domain_check)
+- 🧰 I write Ansible roles when existing solutions on Galaxy don't meet my needs:
+  - `[gvisor_install](https://galaxy.ansible.com/ui/standalone/roles/guiand888/gvisor_install/)`: deploys the gVisor runtime on Linux systems.
+  - `[server_sysconfig]()`: baseline configuration for bare-metal and virtual systems.
+- 💸 I solve **simple sales problems** using `python`: [MX Domain Check](https://github.com/guiand888/mx_domain_check)
 
 -->

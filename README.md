@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 French and Singapore-based, 10+ years in Asia 🇫🇷 🇸🇬  
-Director of Operations & Architecture @ [Forward Systems](https://fwdsystems.tech) 💾  
+Director of Architecture @ [Forward Systems](https://fwdsystems.tech) 💾  
 
 <!--
 **guiand888/guiand888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
